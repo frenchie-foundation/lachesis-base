@@ -3,7 +3,7 @@ package synced
 import (
 	"sync"
 
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/frenchie-foundation/lachesis-base/kvdb"
 )
 
 // store wrapper around any kvdb.Store.

@@ -1,4 +1,4 @@
-module github.com/Fantom-foundation/lachesis-base
+module github.com/frenchie-foundation/lachesis-base
 
 go 1.14
 

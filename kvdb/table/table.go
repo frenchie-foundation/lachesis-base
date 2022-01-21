@@ -1,7 +1,7 @@
 package table
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/frenchie-foundation/lachesis-base/kvdb"
 )
 
 // Table wraper the underling DB, so all the table's data is stored with a prefix in underling DB

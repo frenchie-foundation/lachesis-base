@@ -4,8 +4,8 @@ import (
 	"math/rand"
 	"sync"
 
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/kvdb"
+	"github.com/frenchie-foundation/lachesis-base/hash"
+	"github.com/frenchie-foundation/lachesis-base/kvdb"
 )
 
 type fakeFS struct {

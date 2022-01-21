@@ -1,7 +1,7 @@
 package abft
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
+	"github.com/frenchie-foundation/lachesis-base/inter/idx"
 )
 
 const dsKey = "d"

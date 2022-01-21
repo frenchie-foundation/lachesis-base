@@ -12,12 +12,12 @@ import (
 
 	"github.com/stretchr/testify/require"
 
-	"github.com/Fantom-foundation/lachesis-base/gossip/dagstream"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/utils/cachescale"
+	"github.com/frenchie-foundation/lachesis-base/gossip/dagstream"
+	"github.com/frenchie-foundation/lachesis-base/hash"
+	"github.com/frenchie-foundation/lachesis-base/inter/dag"
+	"github.com/frenchie-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/frenchie-foundation/lachesis-base/inter/idx"
+	"github.com/frenchie-foundation/lachesis-base/utils/cachescale"
 )
 
 func TestSeederResponsesOrder(t *testing.T) {

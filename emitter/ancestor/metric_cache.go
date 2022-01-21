@@ -1,8 +1,8 @@
 package ancestor
 
 import (
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/utils/wlru"
+	"github.com/frenchie-foundation/lachesis-base/hash"
+	"github.com/frenchie-foundation/lachesis-base/utils/wlru"
 )
 
 type Metric uint64

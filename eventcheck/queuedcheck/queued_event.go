@@ -1,6 +1,6 @@
 package queuedcheck
 
-import "github.com/Fantom-foundation/lachesis-base/inter/dag"
+import "github.com/frenchie-foundation/lachesis-base/inter/dag"
 
 type EventTask interface {
 	Event() dag.Event

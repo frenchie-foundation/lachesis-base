@@ -5,14 +5,14 @@ import (
 	"runtime"
 	"sync"
 
-	"github.com/Fantom-foundation/lachesis-base/eventcheck"
-	"github.com/Fantom-foundation/lachesis-base/eventcheck/queuedcheck"
-	"github.com/Fantom-foundation/lachesis-base/gossip/dagordering"
-	"github.com/Fantom-foundation/lachesis-base/hash"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/utils/datasemaphore"
-	"github.com/Fantom-foundation/lachesis-base/utils/workers"
+	"github.com/frenchie-foundation/lachesis-base/eventcheck"
+	"github.com/frenchie-foundation/lachesis-base/eventcheck/queuedcheck"
+	"github.com/frenchie-foundation/lachesis-base/gossip/dagordering"
+	"github.com/frenchie-foundation/lachesis-base/hash"
+	"github.com/frenchie-foundation/lachesis-base/inter/dag"
+	"github.com/frenchie-foundation/lachesis-base/inter/idx"
+	"github.com/frenchie-foundation/lachesis-base/utils/datasemaphore"
+	"github.com/frenchie-foundation/lachesis-base/utils/workers"
 )
 
 var (

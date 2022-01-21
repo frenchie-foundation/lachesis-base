@@ -7,10 +7,10 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/Fantom-foundation/lachesis-base/inter/dag"
-	"github.com/Fantom-foundation/lachesis-base/inter/dag/tdag"
-	"github.com/Fantom-foundation/lachesis-base/inter/idx"
-	"github.com/Fantom-foundation/lachesis-base/inter/pos"
+	"github.com/frenchie-foundation/lachesis-base/inter/dag"
+	"github.com/frenchie-foundation/lachesis-base/inter/dag/tdag"
+	"github.com/frenchie-foundation/lachesis-base/inter/idx"
+	"github.com/frenchie-foundation/lachesis-base/inter/pos"
 )
 
 const (
